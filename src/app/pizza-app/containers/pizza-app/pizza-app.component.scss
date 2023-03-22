@@ -1,0 +1,15 @@
+:host, .pizza-app {
+  height: 100%;
+  display: flex;
+  width: 100%;
+}
+
+pizza-summary {
+  position: absolute;
+  left: 0;
+  background: white;
+  bottom: 0;
+  width: 520px;
+  padding: 1rem;
+  margin: 15px;
+}
